@@ -60,7 +60,15 @@ const societyData = [
     ownerName: "Sunita Joshi",
     ownerProfession: "Professor",
     vehicleNumber: "CH01XY2468"
+  },
+
+  {
+    flatNumber: "D-701",
+    ownerName: "Sunita Joshi",
+    ownerProfession: "Professor",
+    vehicleNumber: "CH01XY2468"
   }
+  
 ];
 
 export default societyData;
